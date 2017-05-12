@@ -1,0 +1,2 @@
+net use l: \\dgc01dscforlinux.file.core.windows.net\installers /u:AZURE\dgc01dscforlinux nzzeXSnWWDQGwCex0ARgZDwvdQQSISB0gseare/wJ0Hd2rGyB8bpR0ulWptCB+2bwXjUelVGhTUHabDd9iz6Ow==
+l:\BigFix-BES-Client-9.5.4.38.exe /s /v/qn

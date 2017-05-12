@@ -1,2 +1,2 @@
-﻿net use l: \\dgc01dscforlinux.file.core.windows.net\installers /u:AZURE\dgc01dscforlinux nzzeXSnWWDQGwCex0ARgZDwvdQQSISB0gseare/wJ0Hd2rGyB8bpR0ulWptCB+2bwXjUelVGhTUHabDd9iz6Ow==
+﻿net use l: net use \\cc01blrsessdvdiag001.file.core.windows.net\installers /u:AZURE\cc01blrsessdvdiag001 L/qBUXOfTceRjD9YpahHXy06g71F6upi6vH5B3MNEfZbM3PFnHpqLB1u3+m6tlzN7BuOCcW62+AUBJf2z+pf7g==
 l:\BigFix-BES-Client-9.5.4.38.exe /s /v/qn
